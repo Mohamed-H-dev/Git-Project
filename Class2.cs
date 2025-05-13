@@ -14,4 +14,11 @@ Console.WriteLine("Hello ali");
  Console.WriteLine("Hello ali");
 }
 
+
+public void PrintFROM MH(){
+
+ Console.WriteLine("Hello From MH");
+}
+
+
 }
