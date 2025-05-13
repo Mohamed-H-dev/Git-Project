@@ -9,7 +9,9 @@ class MyClass2
 
 public void PrintHelloGit(){
 
+Console.WriteLine("Hello ali");
  Console.WriteLine("Hello Git");
+ Console.WriteLine("Hello ali");
 }
 
 
