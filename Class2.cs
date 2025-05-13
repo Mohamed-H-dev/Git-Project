@@ -10,6 +10,7 @@ class MyClass2
 public void PrintHelloGit(){
 
  Console.WriteLine("Hello Git");
+ Console.WriteLine("Hello ali");
 }
 
 }
